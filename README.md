@@ -3,4 +3,5 @@
 省市区基础地址JSON数据
 
 ### 调用接口请查看个人博客
-[link](https://blog.marioserver.top)
+[MarioBlog](https://blog.marioserver.top)
+[码马里奥的博客](https://blog.marioserver.top)
